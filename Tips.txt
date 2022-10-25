@@ -7,4 +7,5 @@ import sys
 
 Target: move mouse to find cow !!
 
-音效來源:無版權音效網站
+音效來源:無版權音效網站 https://tw.yisell.com/search.htm?k=%E7%89%9B
+靈感來源:https://youtu.be/i72H5jonl3o 
